@@ -1,0 +1,14 @@
+{
+  "name": "keypanel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Key server + admin panel (zero dependency) - kompatibel protokol mod menu AbsoluteX",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
